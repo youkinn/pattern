@@ -1,0 +1,22 @@
+{
+  "name": "pattern",
+  "version": "1.0.0",
+  "description": "> 工作中常用的设计模式",
+  "main": ".eslintrc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/youkinn/pattern.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/youkinn/pattern/issues"
+  },
+  "homepage": "https://github.com/youkinn/pattern#readme",
+  "dependencies": {
+    "struct2": "1.0.7"
+  }
+}
